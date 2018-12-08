@@ -3,7 +3,7 @@
 ## Android-Screenshot
 ###### v1.0
 
-Capture Android screenshot via Shell.
+Capture Android screenshot via Computer.
 ___
 Usage
 ------------------
