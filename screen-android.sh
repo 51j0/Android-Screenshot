@@ -24,4 +24,4 @@ fi
 
 
 
-echo $filename "Created"
+echo $filename "Created."
